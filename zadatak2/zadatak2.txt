@@ -1,0 +1,19 @@
+# Instrukcije su obelezene brojevima.
+# Broj u zagradi instrukcije G predstavlja instrukciju
+# koju sledecu izvrsava.
+
+Ukoliko se roboti krecu na desnu stranu:
+
+1. R
+2. S
+3. G(1)
+4. R
+5. G(4)
+
+Ukoliko se roboti krecu na levu stranu:
+
+1. L
+2. S
+3. G(1)
+4. L
+5. G(4)
